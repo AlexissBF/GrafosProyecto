@@ -1,5 +1,5 @@
 # Proyecto de red eléctrica: Primer mapeado con nodos conectados a la central eléctrica
-
+#aqui no hay ningun cambio
 
 #Primero importamos las librerias necesarias para representar el grafo
 #IMPORTANTE WACHOS primero descargar la libreria en la terminal -> !pip install networkx matplotlib
